@@ -1,0 +1,3 @@
+<launch>
+	<node name="randomwalk" pkg="magni_randomwalk" type="randomwalk.py" output="screen"/>
+</launch>

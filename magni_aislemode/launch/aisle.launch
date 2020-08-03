@@ -1,0 +1,3 @@
+<launch>
+	<node name="aisle" pkg="magni_aisle" type="aisle.py" output="screen"/>
+</launch>
